@@ -14,5 +14,5 @@ Puedes configurar tu clave de API de OpenAI como una variable de entorno con el 
 
 ## Uso
 
-Para comenzar la interacción con la IA psycho_machine, ejecuta los archivos por separado desde CMD Puedes hacerlo utilizando el siguiente comando:
+Para comenzar la interacción con la IA, ejecuta los archivos por separado desde CMD...
 
