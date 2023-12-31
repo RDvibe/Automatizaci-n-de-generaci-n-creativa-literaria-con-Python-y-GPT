@@ -15,4 +15,6 @@ Puedes configurar tu clave de API de OpenAI como una variable de entorno con el 
 ## Uso
 
 Para comenzar la interacción con la IA, ejecuta los archivos por separado desde CMD...
+Recuerda que debes estar en mismo directorio de los archivos.py guíate del video...
+[![Ver Video](https://img.youtube.com/vi/REkWIZDaZK0/0.jpg)](https://youtu.be/REkWIZDaZK0)
 
